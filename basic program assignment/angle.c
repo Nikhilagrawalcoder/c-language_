@@ -1,4 +1,5 @@
 #include <stdio.h>
+// find an third angle pf triangle.
 
 int main(){
 int b,c,a;
